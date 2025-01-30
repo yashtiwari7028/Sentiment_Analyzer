@@ -1,0 +1,1 @@
+A machine learning application using the K-Nearest Neighbors (KNN) algorithm and the Sentiment140 dataset from Kaggle to analyze tweet sentiment and also have interactive features for filtering and sorting tweets by length and alphabetical order.
